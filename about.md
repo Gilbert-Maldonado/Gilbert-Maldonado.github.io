@@ -8,4 +8,4 @@ Student at UT.
 
 ### Contact me
 
-[email@domain.com](gilbert_maldonado@utexas.edu)
+[gilbert_maldonado@utexas.edu](gilbert_maldonado@utexas.edu)
