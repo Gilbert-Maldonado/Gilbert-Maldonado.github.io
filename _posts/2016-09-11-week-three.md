@@ -23,4 +23,4 @@ Even though the first project was a rough start, I am encouraged by Downing’s 
 
 **Quick Tip**
 Use `grep` and `sed` if you want to search and replace every instance of a string across multiple files. The following link is helpful if you’re interested.
-http://vasir.net/blog/ubuntu/replace_string_in_multiple_files
+[grep and sed](http://vasir.net/blog/ubuntu/replace_string_in_multiple_files)
