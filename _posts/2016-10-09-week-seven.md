@@ -45,20 +45,36 @@ Then we find the remainder of 5^(2^(n)) where n is the number of digits in the b
 (Note: the equal signs following are not equal signs but the congruent sign.)
 
 5     = 5 (mod 18)
+
 5^2   = 25 = 7 (mod 18)
+
 5^4   = 7^2 = 49 = 13 (mod 18)
+
 5^8   = 13^2 = 169 = 7 (mod 18)
+
 5^16  = 7^2 = 49 = 13 (mod 18)
+
 5^32  = 13^2 = 169 = 7 (mod 18)
+
 5^64  = 7^2 = 49 = 13 (mod 18)
+
 5^128 = 13^2 = 169 = 7 (mod 18)
+
 5^256 = 7^2 = 49 = 13 (mod 18)
+
 5^512 = 13^2 = 169 = 7 (mod 18)
 
+
 So then we have,
+
 5^561 = 5^(2^0 + 2^4 + 2^5 + 2^9)
+
       = 5 * 5^16 * 5^32 * 5^512
+      
 (Substituting in congruences)
+
       = 5 * 13 * 7 * 7 (mod 18) = 3185 which is congruent to 17 (mod 18)
+      
 So we have that 5^561 is congruent to 17 (mod 18)
+
 (The remainder is 17)
