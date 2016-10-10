@@ -17,16 +17,27 @@ Something I learned in my Number Theory class. (Let me know if I made a mistake)
 
 Start off by finding 561 in binary.
 
+
 561 = 2 * 280 + 1
+
 280 = 2 * 140 + 0
+
 140 = 2 *  70 + 0
+
  70 = 2 *  35 + 0
+ 
  35 = 2 *  17 + 1
+ 
  17 = 2 *   8 + 1
+ 
   8 = 2 *   4 + 0
+  
   4 = 2 *   2 + 0
+  
   2 = 2 *   1 + 0
+  
   1 = 2 *   0 + 1
+  
 
 So 561 (base 10) is 1000110001 (base 2)
 
