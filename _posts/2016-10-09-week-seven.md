@@ -38,7 +38,7 @@ Start off by finding 561 in binary.
 So 561 (base 10) is 1000110001 (base 2)
 
 Then we find the remainder of 5^(2^(n)) where n is the number of digits in the binary representation. So we get as follows:
-(Note: Some of the equal signs following are equal signs and some of them are congruent signs.)
+(Note: Some of the signs following are equal signs and some of them are congruent signs.)
 
 ```
 5     =               5 (mod 18)
