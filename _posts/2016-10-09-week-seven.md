@@ -17,7 +17,7 @@ Something I learned in my Number Theory class. (Let me know if I made a mistake)
 
 Start off by finding 561 in binary.
 
-
+```
 561 = 2 * 280 + 1
 
 280 = 2 * 140 + 0
@@ -37,13 +37,14 @@ Start off by finding 561 in binary.
   2 = 2 *   1 + 0
   
   1 = 2 *   0 + 1
-  
+```
 
 So 561 (base 10) is 1000110001 (base 2)
 
 Then we find the remainder of 5^(2^(n)) where n is the number of digits in the binary representation. So we get as follows:
 (Note: the equal signs following are not equal signs but the congruent sign.)
 
+```
 5     = 5 (mod 18)
 
 5^2   = 25 = 7 (mod 18)
@@ -63,18 +64,21 @@ Then we find the remainder of 5^(2^(n)) where n is the number of digits in the b
 5^256 = 7^2 = 49 = 13 (mod 18)
 
 5^512 = 13^2 = 169 = 7 (mod 18)
+```
 
 
 So then we have,
 
+```
 5^561 = 5^(2^0 + 2^4 + 2^5 + 2^9)
-
       = 5 * 5^16 * 5^32 * 5^512
-      
-(Substituting in congruences)
+```
 
+(Substituting in congruences)
+```
       = 5 * 13 * 7 * 7 (mod 18) = 3185 which is congruent to 17 (mod 18)
-      
+```
+
 So we have that 5^561 is congruent to 17 (mod 18)
 
 (The remainder is 17)
