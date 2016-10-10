@@ -4,15 +4,20 @@ title: Week Seven
 ---
 
 **What did I do this week?**
+
 We had a test in this class and the difficulty of the test was fair. We were given enough time and the problems tested on knowledge of iterators, types, and other things. We had I think ninety minutes for the test and the test was given on Canvas.
 
 **What's in your way?**
+
 Nothing is in my way at the moment! Since the test is over I am waiting for the next project to be posted so that way I can start on that early.
 
 **What will you do next week?**
+
 The third project came out so I plan to start working on it after Downing has gone over the project details in class. The project is called Allocator and after taking a quick look it seems to me that we may have to create functions such as allocate and deallocate. I'll be looking forward to this next project!
 
 **Quick Tip**
+
+(Not so quick)
 Something I learned in my Number Theory class. (Let me know if I made a mistake) There is a systematic way of finding the remainder of a very huge number. Let's do 5^(561) mod 18 for example.
 
 Start off by finding 561 in binary.
@@ -33,7 +38,7 @@ Start off by finding 561 in binary.
 So 561 (base 10) is 1000110001 (base 2)
 
 Then we find the remainder of 5^(2^(n)) where n is the number of digits in the binary representation. So we get as follows:
-(Note: the equal signs following are not equal signs but the congruent sign.)
+(Note: Some of the equal signs following are equal signs and some of them are congruent signs.)
 
 ```
 5     =               5 (mod 18)
