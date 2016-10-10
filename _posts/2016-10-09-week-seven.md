@@ -19,7 +19,6 @@ Start off by finding 561 in binary.
 
 ```
 561 = 2 * 280 + 1
-
 280 = 2 * 140 + 0
 
 140 = 2 *  70 + 0
