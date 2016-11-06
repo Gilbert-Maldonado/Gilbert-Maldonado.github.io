@@ -5,6 +5,7 @@ title: Week Eleven
 
 **What did I do this week?**
 
+Downing reiterated the difference between stack and the heap. He then talked about the move constructor and the move assignment. If you put something inside move() then it convinces the compiler that it's an r-value. The move assignment is nice when you want to transfer the contents over and delete the thing you're stealing from. This takes away the inefficiency of copy over the contents.
 
 **What's in your way?**
 
