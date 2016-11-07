@@ -5,7 +5,7 @@ title: Week Eleven
 
 **What did I do this week?**
 
-Downing reiterated the difference between stack and the heap. He then talked about the move constructor and the move assignment. If you put something inside move() then it convinces the compiler that it's an r-value. The move assignment is nice when you want to transfer the contents over and delete the thing you're stealing from. This takes away the inefficiency of copy over the contents. Then Downing talked about scope.
+Downing reiterated the difference between stack and the heap. He then talked about the move constructor and the move assignment. If you put something inside move() then it convinces the compiler that it's an r-value. The move assignment is nice when you want to transfer the contents over and delete the thing you're stealing from. This takes away the inefficiency of copy over the contents. If there is no move constructor or move assignment then it will just call the copy constructor or copy assignment. Then Downing talked about scope.
 
 In C++ we have:
 local
@@ -22,15 +22,22 @@ class static
 
 
 The main questions he asked to figure out how C++ worked is as follows:
+
 1. How many are there?
+
 2. When are they allocated?
+
 3. When are they initialized
+
 4. What is their scope?
+
 5. What is their lifetime?
+
 
 **What's in your way?**
 
 I have a Number Theory test next week. So that'll be in the way a little bit.
+
 
 **What will you do next week?**
 
