@@ -34,7 +34,7 @@ The main questions he asked to figure out how C++ worked is as follows:
 5. What is their lifetime?
 
 
-These questions help understand what is really going on in the background.
+These questions help us understand what is really going on in the background.
 
 **What's in your way?**
 
