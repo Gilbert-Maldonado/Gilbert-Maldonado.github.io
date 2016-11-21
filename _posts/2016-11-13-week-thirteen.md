@@ -9,14 +9,16 @@ He talked about the dfferent casts that you can do and said that you can only do
 
 Spiceworks came to give a talk about what it is like to be a software developer. They talked about what technologies they use and gave some tips on what should be on a resume.
 
+Downing then gave us motivations for using an abstract class. Downing talked about when virtual methods can be inlined.
+
 **What's in your way?**
 
-
+There is nothing in my way at the moment.
 
 
 **What will you do next week?**
 
-
+Thanksgiving week is this coming week so I'll be going to my parent's home to visit.
 
 
 **Quick Tip**
