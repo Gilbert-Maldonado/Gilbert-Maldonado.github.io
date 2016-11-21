@@ -34,4 +34,4 @@ Thanksgiving week is this coming week so I'll be going to my parent's home to vi
 
 **Quick Tip**
 
-This isn't really a tip but Harlem Globetrotters will be in Austin and Houston late December so if you want to see them make sure to buy tickets! Here's the link for the [tickets!](http://www.harlemglobetrotters.com/tickets).
+This isn't really a technical tip but Harlem Globetrotters will be in Austin and Houston late December so if you want to see them make sure to buy tickets! Here's the link for the [tickets!](http://www.harlemglobetrotters.com/tickets).
